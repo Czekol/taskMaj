@@ -1,4 +1,4 @@
-# `Hello 😎 #RRGGBB`
+# `#RRGGBB Hello 😎 `
 ```diff
 - text in red
 + text in green
